@@ -11,3 +11,8 @@ because I feel like it brings us **together**. It is also very exciting and has 
 1. Mohamed Salah
 2. Virgil van Dijk
 3. Roberto Firmino
+
+# Other Teams That Would Be Good To Watch Play
+* Barcalona
+* PSG
+* Inter Milan
