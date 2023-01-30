@@ -29,3 +29,11 @@ These are countries that I recommend visiting based off my experienecs going to 
 | France | Wine, known for food, Art, and you can go to Paris | 5 days |
 | Switzerland | Beatiful landscape, great people, and lots to do | 8 days |
 | Japan | Citylife, video games, and countryside Japan | 10 days |
+
+---
+# Funny Quotes
+> "Sometimes you got to specifcally go out of your way to get into trouble. It's called fun."
+>>*- Robin Williams*
+
+> "You know the trouble with real life? There's no danger music."
+>>*- Jim Carrey*
