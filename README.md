@@ -18,3 +18,14 @@ because I feel like it brings us **together**. It is also very exciting and has 
 * Inter Milan
 
 **[AboutMe](AboutMe.md)**
+
+---
+# Four Countries to Visit
+These are countries that I recommend visiting based off my experienecs going to them. I have only been to a couple countries outside the US, but I feel like these four are some good suggestions. I also feel that each country brings their own style to the table meaning there should be a country for you no matter what you are into.
+
+| Name of Country | Reason for Recommendation | Amount of days I would stay |
+| --- | --- | --- |
+| Mexico | Beaches, warm, and food is great | 7 days |
+| France | Wine, known for food, Art, and you can go to Paris | 5 days |
+| Switzerland | Beatiful landscape, great people, and lots to do | 8 days |
+| Japan | Citylife, video games, and countryside Japan | 10 days |
