@@ -37,3 +37,16 @@ These are countries that I recommend visiting based off my experienecs going to 
 
 > "You know the trouble with real life? There's no danger music."
 >>*- Jim Carrey*
+
+---
+# Code Fencing
+#### Stack Overflow Relevant Question
+> "multiple file input html not working"
+>> Stack Overflow Link: <https://stackoverflow.com/questions/38554141/multiple-file-input-html-not-working>
+```
+<form method="post" action="upload.php" enctype="multipart/form-data">
+  <input name='uploads[]' type="file" multiple>
+  <input type="submit" value="Send">
+</form>
+```
+Snippet Source: <https://css-tricks.com/snippets/html/multiple-file-input/>
